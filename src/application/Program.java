@@ -38,7 +38,7 @@ public class Program {
 	System.out.println("A unidade de origem é: " + unidOrigem);
 	System.out.println("A unidade transformada é : " + unidTransf);
 	System.out.println("A temperatura transformada é:  " + conversao);
-	System.out.println("A media das temperaturas é : media");
+	System.out.println("A media das temperaturas é : " + media);
 				
 			
 		} catch(NullPointerException e) {
